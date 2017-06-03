@@ -7,5 +7,4 @@ add_lunch_combo jdc_h850-userdebug
 add_lunch_combo jdc_oneplus2-user
 add_lunch_combo jdc_oneplus2-userdebug
 add_lunch_combo jdc_onyx-userdebug
-add_lunch_combo jdc_falcon_user
-add_lunch_combo jdc_falcon_userdebug
+http://jenkins3.legacyserver.in/job/aq_mido/
